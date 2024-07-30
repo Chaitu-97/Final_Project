@@ -1,0 +1,76 @@
+*{
+    background-color: black;
+    color: white;
+    font-size : 18px;
+}
+
+header{
+    border: 3px dashed green;
+    margin: 25px;
+}
+#title{
+    text-align: center;
+    font-size: 36px;
+    color: white;
+    text-shadow: 2px 2px chocolate;
+
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+main{
+    border-left: 3px dashed blue ;
+    border-right:3px dashed blue ;
+
+    margin-left: 25px;
+    margin-right: 25px;
+
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#planets{
+    color: orange;
+    font-size: 2em;
+}
+a.l1{
+    color: orange;
+}
+
+a.l2{
+    color: green;
+}
+ul{ 
+    columns: 2;
+}
+.t1{
+    text-indent: 1pt;
+}
+.t2{
+    padding-left: 3%;
+}
+nav {
+    border-bottom: 3px dashed white;
+    padding-left: 1%;
+}
+
+.copyright{
+    border-top:3px dashed red;
+    padding-top: 1%;
+    text-align: right;
+}
+footer{
+    border: 3px dashed white;
+    margin: 25px;
+    padding: 15px;
+}
+li {
+    padding-bottom: 5%;
+}

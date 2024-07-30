@@ -1,0 +1,50 @@
+
+html {
+    background-image: -moz-linear-gradient( to bottom, white 0%, #facd8a 100%);
+    background-image: -webkit-linear-gradient(
+        to bottom, white 0%, #facd8a 100%);
+    background-image: -o-linear-gradient( to bottom, white 0%, #facd8a 100%);
+    background-image: linear-gradient( to bottom, white 0%, #facd8a 100%);	
+}
+
+h1{
+    color:#facd8a;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    margin:auto;
+    width:80%;
+    border:1px solid black;
+    margin-top:30px;
+    background-color: white;
+}
+img{
+    float:left;
+    height:100px;
+    width:100px;
+}
+header{
+    border-bottom:2px solid #facd8a;
+    padding-left:40px;
+}
+
+section{
+    float:left;
+    width:60%;
+    padding-left: 15px;
+}
+aside{
+    text-align: left;
+    background-color: #facd8a;
+    float:right;
+    width:35%;
+    padding-left: 15px;
+}
+
+footer{
+    clear:both;
+    text-align: right;
+    border-top:2px solid #facd8a;
+    padding-right:20px;
+
+}
